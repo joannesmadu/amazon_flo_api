@@ -1,0 +1,14 @@
+flo_api_key: "your-flo-api-key"
+amazon_api_key: "your-amazon-api-key"
+
+default_care_package:
+  - name: "Menstrual Pads"
+    asin: "B000XYZ"
+  - name: "Painkillers"
+    asin: "B001XYZ"
+  - name: "Chocolate Snacks"
+    asin: "B002XYZ"
+
+user_preferences:
+  store_in_db: true
+  allow_custom_packages: true
